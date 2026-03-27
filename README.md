@@ -22,7 +22,6 @@ I love building software, learning new technologies, and occasionally losing at 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)
-- ⚡ Agile / Scrum  
 
 ### 🌐 IT Support & Networking
 - 💻 Windows & macOS  
@@ -32,15 +31,13 @@ I love building software, learning new technologies, and occasionally losing at 
 - 🔌 Cisco Packet Tracer   
 
 ### 📚 Currently Learning
-- 🐍 Python (Independent Study) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- 🐍 Python (PCAP-31-0x) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - 📱 Mobile Application Development  
 
 ### 🎖️ Certifications & Badges
-- 🏅 IBS Credly Badge  
 - 🏅 IBM Credly Badges  
-- 🏅 ICDL Python Certificate  
 - 🏅 ICDL Coding Principles - Python  
-- 🏅 ITS Python Certificate  
+- 🏅 IT Specialist in Python Certificate  
 - 🏅 Codecademy Certificates 
 
 ## 💻 Projects
