@@ -36,7 +36,6 @@ I love building software, learning new technologies, and occasionally losing at 
 
 ### 🎖️ Certifications & Badges
 - 🏅 IBM Credly Badges  
-- 🏅 ICDL Coding Principles - Python  
 - 🏅 IT Specialist in Python Certificate  
 - 🏅 Codecademy Certificates 
 
@@ -52,10 +51,15 @@ Here are some of my projects. Check them out!
 ---
 
 ## 📊 GitHub Stats
-
+<!--
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnolan208&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnolan208&layout=compact&theme=radical)
+-->
+
+![Top Language](https://img.shields.io/github/languages/top/rnolan208?style=flat-square)
+![Total Repos](https://img.shields.io/github/repos/rnolan208?style=flat-square)
+![Total Stars](https://img.shields.io/github/stars/rnolan208?style=flat-square)
 
 ---
 
