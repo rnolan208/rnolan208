@@ -53,7 +53,7 @@ Here are some of my projects. Check them out!
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rnolan208&show_icons=true&theme=radical&count_private=true)
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnolan208&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnolan208&layout=compact&theme=radical)
 
