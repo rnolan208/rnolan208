@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Robert!
 
-🎓 Higher Diploma in Software Development student at **ATU, Ireland (2025/2026)**   
+🎓 Higher Diploma in Software Development at **ATU, Ireland (2025/2026)**   
 💡 Passionate about building full-stack applications, learning new technologies, and solving real-world problems  
 🎮 Occasionally losing at video games, but debugging like a pro  
 
