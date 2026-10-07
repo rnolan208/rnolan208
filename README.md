@@ -83,7 +83,7 @@ I enjoy creating responsive web applications, experimenting with new tools, and 
 Here are some of my projects. Check them out!  
 
 - 🎫 **[IT Support Desk](https://github.com/rnolan208/IT_Support_Desk)**
-  Frontend IT support ticket management application built with **HTML**, **CSS**, and **JavaScript**.
+  - Frontend IT support ticket management application built with **HTML**, **CSS**, and **JavaScript**.  
   → Create, view, edit, filter, search, and delete support tickets with priority and status tracking
 
 - 🎬 **[Movie App (Angular & Ionic)](https://github.com/rnolan208/Mobile_App_Development_ATU)**
