@@ -2,7 +2,7 @@
 
 🎓 Higher Diploma in Software Development at **ATU, Ireland (2025/2026)**   
 💡 Passionate about building full-stack applications, learning new technologies, and solving real-world problems  
-₿  Interested in **Cryptocurrency, Blockchain & Web3 technologies** 
+₿  Interested in **Cryptocurrency, Blockchain & Web3 technologies**  
 🎮 Occasionally losing at video games, but debugging like a pro  
 
 ---
