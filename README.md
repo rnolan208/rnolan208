@@ -81,6 +81,10 @@ Here are some of my projects. Check them out!
   - Frontend IT support ticket management application built with **HTML**, **CSS**, and **JavaScript**.  
   → Create, view, edit, filter, search, and delete support tickets with priority and status tracking
 
+- 💰 **[Crypto Wallet Tracker](https://github.com/rnolan208/Crypto_Wallet_Tracker)**
+  - Full-stack Ethereum wallet tracking application built with **Python**, **Flask**, and **JavaScript**.  
+  → Retrieves live wallet balances and ETH/EUR prices using **Alchemy** and **CoinGecko**, with a deployed Flask API and responsive frontend
+
 - 🎬 **[Movie App (Angular & Ionic)](https://github.com/rnolan208/Mobile_App_Development_ATU)**
   - Cross-platform mobile application 'Movie App' using **Angular** and **Ionic**.  
   → Browse trending movies, view details, and explore dynamic content from a real-world API
